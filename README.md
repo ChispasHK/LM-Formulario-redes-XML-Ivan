@@ -1,6 +1,6 @@
 # LM Formulario redes XML
 ## LM-Formulario
-Link del rawgit: https://raw.githack.com/ivan-Alf/LM-Formulario-redes--XML/master/LM-Formulario-redes - copia/index.html
+Link del rawgit: https://raw.githack.com/ivan-Alf/LM-Formulario-redes-XML-Ivan/master/LM-Formulario-redes/index.html
 
 ## El web está divido en:
 - Pagina de loguearse
