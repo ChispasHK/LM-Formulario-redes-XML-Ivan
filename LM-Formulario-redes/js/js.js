@@ -1,5 +1,5 @@
 // fichero xml que está en el servidor rawgit
-var url="https://raw.githack.com/ivan-Alf/LM-Formulario-redes-copia/master/LM-Formulario-redes - copia/xml/xmlconDTD.xml";
+var url="https://raw.githack.com/ivan-Alf/LM-Formulario-redes-XML-Ivan/master/LM-Formulario-redes/xml/xmlconDTD.xml";
 
 //Variables
 var i = 0;
