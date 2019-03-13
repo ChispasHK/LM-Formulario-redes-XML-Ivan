@@ -1,0 +1,205 @@
+/*html index*/
+
+
+/*html instruccions*/
+
+.tex h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.tex h3{
+    text-align: left;
+
+}
+
+.tex li{
+    text-align: justify;
+
+}
+
+.box_instruccions{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.253);
+    border-radius: 10px; 
+    background-color: rgba(101, 161, 100, 0.473);
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+.box_instruccions a:visited{
+    text-decoration: none;
+    color: black;
+}
+.box_instruccions a:link{
+    text-decoration: none;
+    color: black;
+}
+
+/*boton Comenzar examen*/
+
+.box_empieza{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.253);
+    border-radius: 10px; 
+    background-color: rgba(101, 161, 100, 0.473);
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+  
+    
+}
+.box_empieza a:visited{
+    text-decoration: none;
+    color: black;
+}
+.box_empieza a:link{
+    text-decoration: none;
+    color: black;
+}
+
+/*input*/
+  
+input[type=submit] {
+    text-align: center;
+    padding: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.253);
+    border-radius: 10px; 
+    background-color: rgba(101, 161, 100, 0.473);
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    margin: 30px 300px 45px 300px;
+    cursor: pointer;
+    
+}
+
+input[type=submit] a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+input [type=submit] a:link {
+    text-decoration: none;
+    color: black;
+}
+
+
+/*html 2 / css */
+
+.bodi2{
+    margin: 250px 0 250px 0;
+}
+
+.bodi2 h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 250%
+}
+
+.bodi2 p{
+    text-align: center;
+    font-size: 140%
+}
+
+/*index1 h1 */
+
+.primer h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+/*section*/
+
+section {
+    border: 2px solid rgba(0, 0, 0, 0.253);
+    padding: 10px;
+    margin: 10px;
+}
+
+/*footer*/
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(101, 161, 100, 0.473);
+    color: black;
+    text-align: center;
+}
+
+/*Formulario*/
+
+.sicono1{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*footer*/
+
+.footer1{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(101, 161, 100, 0.473);
+    color: black;
+    text-align: center;
+}
+
+/* < 1109px */
+
+@media screen and (min-width: 1109px) {
+    body {
+        background-color: rgba(191, 233, 190, 0.671);
+        text-align: left;
+        padding: 0px 350px 0px 350px;
+    }
+    
+}
+/* > 1108px */
+
+@media screen and (max-width: 1108px) {
+    body {
+        background-color: rgba(191, 233, 190, 0.671);
+        text-align: left;
+        padding: 0px 320px 0px 320px;
+    }
+    
+}
+
+/* > 1049px */
+
+@media screen and (max-width: 1049px) {
+    body {
+        background-color: rgba(191, 233, 190, 0.671);
+        text-align: left;
+        padding: 0px 300px 0px 300px;
+    }
+    
+}
+
+/* > 1009px */
+
+@media screen and (max-width: 1009px) {
+    body {
+        background-color: rgba(191, 233, 190, 0.671);
+        text-align: left;
+        padding: 0px 250px 0px 250px;
+    }
+    
+}
+
+/* > 909px */
+
+@media screen and (max-width: 909px) {
+    body {
+        background-color: rgba(191, 233, 190, 0.671);
+        text-align: left;
+        padding: 0px 220px 0px 220px;
+    }
+    
+}

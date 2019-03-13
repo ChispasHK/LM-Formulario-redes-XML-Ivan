@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "dtd.dtd">
+<questions>
+	<question>
+		<type>text</type>
+		<title>1. ¿Cuál es la ciencia que se ocupa de la comunicación remota entre sistemas informáticos?</title>
+			<answer>Teleinformática</answer>
+			<answer>Teleinformatica</answer>
+			<answer>teleinformatica</answer>
+			<answer>TELEINFORMATICA</answer>
+			<answer>teleinformática</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>2. ¿Cuál es la ciencia que se ocupa de la comunicación remota entre sistemas informáticos?</title>
+			<answer>protocolo</answer>
+			<answer>Protocolo</answer>
+			<answer>PROTOCOLO</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>3. ¿Cuáles son algunos de los componentes de la arquitectura de una red?</title>
+			<option>Las corporaciones que operan y mantienen la red de datos</option>
+			<option>Las personas que componen la red humana</option>
+			<option>Los datos transferidos a través de la red</option>
+			<option>Los servicios y los protocolos que mueven los mensajes por la red</option>
+		<answer>3</answer> 
+	</question>
+
+	<question>
+		<type>select</type>
+		<title>4. Relaciona los distintos medios de transmisión con sus conectores asociados:</title>
+			<option>Elegir la respuesta correcta</option>
+			<option>BNC, Terminadr.</option>
+			<option>No tiene.</option>
+			<option>Conector RJ-45, Jack RJ-45 </option>
+		<answer>1</answer> 
+	</question>		 
+	<question>
+		<type>multiple</type>
+		<title>5. Señala los compone del modelo de comunicaciones (Múltiples respuestas)</title>
+			<option>Fuente</option>
+			<option>Transmisor</option>
+			<option>Televisión y Radio</option>
+			<option>Sistema de transmisión</option>
+			<option>Receptor o decodificador</option>
+			<option>Destinatario</option>
+		<answer>0</answer>
+		<answer>3</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>6. ¿Qué estándares rigen la redes locales inalámbricas? (Múltiples respuestas)</title>
+				<option>IEEE 802.4</option>
+				<option>IEEE 802.5</option>
+				<option>OSI</option>
+				<option>EIA/TIA 568A/B</option>
+				<option>IEEE 802.11b</option>
+				<option>IEEE 802.11g</option>
+				<option>IEEE 802.3</option>
+				<option>IEEE 802.2</option>
+			<answer>0</answer>
+			<answer>3</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>7. ¿Qué tipo de direccionamiento se encuentra en la capa 2 de OSI?</title>
+				<option>Puerto</option>
+				<option>IP</option>
+				<option>Físico</option>
+				<option>MAC</option>
+			<answer>0</answer>
+			<answer>2</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>8. La red Telefónica (o Movistar) se caracteriza por:</title>
+				<option>Multipunto o broadcast</option>
+				<option>WAN (de área extensa)</option>
+				<option>Topología en malla </option>
+				<option>Punto a punto</option>
+			<answer>1</answer>
+			<answer>2</answer>
+			<answer>3</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title>9. ¿Con qué otro nombre son conocidas las redes locales que siguen el estándar IEEE 802.3?</title>
+				<option>Wifi</option>
+				<option>Ethernet</option>
+				<option>Token ring </option>
+				<option>Token bus</option>
+		<answer>1</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>10. IEEE y la Internet Society (ISOC)</title>
+			<option>Se encargan de regular aspectos sobre las telecomunicaciones y la sociedad de internet respectivamente </option>
+			<option>Se encargan de regular aspectos sobre las redes locales (LAN) y la influencia de internet en la gente</option>
+			<option>Se encargan de regular aspectos sobre las redes locales (LAN) y estándares y protocolos de internet </option>
+			<option>Se encarga de regular aspectos sobre las redes metropolitanas (MAN) y estándares de internet</option>
+		<answer>2</answer>		  
+	</question>		 
+</questions>			
