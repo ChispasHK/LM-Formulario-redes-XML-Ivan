@@ -1,0 +1,145 @@
+{
+    "questions": {
+      "question": [
+        {
+          "type": "text",
+          "title": "1. ¿Cuál es la ciencia que se ocupa de la comunicación remota entre sistemas informáticos?",
+          "option": [
+            "Teleinformática",
+            "Teleinformatica",
+            "teleinformatica",
+            "TELEINFORMATICA",
+            "teleinformática"
+          ],
+        "answer": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+          "type": "text",
+          "title": "2. ¿Cuál es la ciencia que se ocupa de la comunicación remota entre sistemas informáticos?",
+          "option": [
+            "protocolo",
+            "Protocolo",
+            "PROTOCOLO"
+          ],
+          "answer": [
+            "0",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "type": "select",
+          "title": "3. ¿Cuáles son algunos de los componentes de la arquitectura de una red?",
+          "option": [
+            "Las corporaciones que operan y mantienen la red de datos",
+            "Las personas que componen la red humana",
+            "Los datos transferidos a través de la red",
+            "Los servicios y los protocolos que mueven los mensajes por la red"
+          ],
+          "answer": "3"
+        },
+        {
+          "type": "select",
+          "title": "4. Relaciona los distintos medios de transmisión con sus conectores asociados:",
+          "option": [
+            "Elegir la respuesta correcta",
+            "ABNC, Terminadrlvaro",
+            "No tiene",
+            "Conector RJ-45, Jack RJ-45"
+          ],
+          "answer": "1"
+        },
+        {
+          "type": "multiple",
+          "title": "5. Señala los compone del modelo de comunicaciones (Múltiples respuestas)",
+          "option": [
+              "Fuente",
+              "Transmisor",
+              "Televisión y Radio",
+              "Sistema de transmisión",
+              "Receptor o decodificador",
+              "Destinatario"
+          ],
+          "answer": [
+            "0",
+            "3"
+          ]
+        },
+        {
+          "type": "multiple",
+          "title": "6. ¿Qué estándares rigen la redes locales inalámbricas? (Múltiples respuestas)",
+          "option": [
+            "IEEE 802.4",
+            "IEEE 802.5",
+            "OSI",
+            "EIA/TIA 568A/B",
+            "IEEE 802.11b",
+            "IEEE 802.11g",
+            "IEEE 802.3",
+            "IEEE 802.2"
+          ],
+          "answer": [
+            "0",
+            "3"
+          ]
+        },
+        {
+          "type": "checkbox",
+          "title": "7. ¿Qué tipo de direccionamiento se encuentra en la capa 2 de OSI?",
+          "option": [
+            "Puerto",
+            "IP",
+            "Físico",
+            "MAC"
+          ],
+          "answer": [
+            "0",
+            "2"
+          ]
+        },
+        {
+          "type": "checkbox",
+          "title": "8. La red Telefónica (o Movistar) se caracteriza por:",
+          "option": [
+            "Multipunto o broadcast",
+            "WAN (de área extensa)",
+            "Topología en malla ",
+            "Punto a punto"
+          ],
+          "answer": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "type": "radio",
+          "title": "9. ¿Con qué otro nombre son conocidas las redes locales que siguen el estándar IEEE 802.3?",
+          "option": [
+            "Wifi",
+            "Ethernet",
+            "Token ring",
+            "Token bus"
+          ],
+          "answer": "1"
+        },
+        {
+          "type": "radio",
+          "title": "10. IEEE y la Internet Society (ISOC)",
+          "option": [
+            "Se encargan de regular aspectos sobre las telecomunicaciones y la sociedad de internet respectivamente",
+            "Se encargan de regular aspectos sobre las redes locales (LAN) y la influencia de internet en la gente",
+            "Se encargan de regular aspectos sobre las redes locales (LAN) y estándares y protocolos de internet",
+            "Se encarga de regular aspectos sobre las redes metropolitanas (MAN) y estándares de internet"
+          ],
+          "answer": "2"
+        }
+      ]
+    }
+  }
